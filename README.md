@@ -1,6 +1,8 @@
 # AQ-IRR
 AVR(AtTiny45)-based IR-controlled USB HID Keyboard
 
+Все нужное для работы - по ссылке ниже.
+
 Instruction and detailed explanation you can get on https://drive.google.com/file/d/1qV_x94ru8l6GEPR-HmLSDU18ONs_s7jf/view?usp=sharing (in Russian).
 In general: 
 
