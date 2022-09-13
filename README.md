@@ -8,3 +8,5 @@ This thing can accept the remote control signals, recode and transmit it as stan
 
 You need a simple hand-made or aliexpress device with AVR ATTiny45 (may 85) and IR-receiver (schemes are able on GyverLabs git or analog ones) & usual remote controller with NEC-protocol (project adapted for special one, but you can parse your RC with commented IR-decoder in main).
 Also you need an ISP-programmer (optimal may be Arduino as ISP, flash process is described in pdf linked above).
+
+You can freely use/change/save this code. I'd be happy to answer on andregrygorie@gmail.com .
