@@ -19,8 +19,6 @@
 #include "usbdrv/usbdrv.h"
 #include "oddebug.h"
 
-#include "RC_func/ir_funcs.h"
-
 /*
 Pin assignment:
 project - PB3 = LED output 
